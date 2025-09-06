@@ -42,6 +42,10 @@ The Power BI dashboard was designed with interactivity and storytelling in mind:
 - **Geographic Analysis:** Regional contribution by state (TX, NY, CA).
 - **Year-to-Date (YTD) Overview:** Cumulative revenue, transactions, interest earned.
 ## **3. Key Insights (Sample – Week 53, 31st Dec)**
+<img width="2048" height="1184" alt="image" src="https://github.com/user-attachments/assets/eb5620c6-1620-43e2-9a8f-5277202f4cde" />
+<img width="2048" height="1184" alt="image" src="https://github.com/user-attachments/assets/51ef59a1-3e77-42b3-8bcc-eb74027bc223" />
+
+
 
 - **Revenue:** Increased by **28.8% week-over-week (WoW)**.
 - **YTD Performance:**
